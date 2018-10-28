@@ -1,2 +1,2 @@
 # game-gs
-Sample public code, All Rights Reserved
+Sample public code
