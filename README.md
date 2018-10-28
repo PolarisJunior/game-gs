@@ -1,2 +1,2 @@
 # game-gs
-Sample public code
+Sample public code completely written by me
