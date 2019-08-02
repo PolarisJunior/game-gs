@@ -16,6 +16,8 @@ n_crafting, n_alchemic_forging, +Repair, Recipes - Part of item/armor crafting s
 
 Other interesting mentions
 
+n_lobster_cage - Catching lobsters in water
+
 +ActionBar - Action bar that allows players to see ability icons and cast spells via mouse
 +Junk - Helps player sort junk items
 
